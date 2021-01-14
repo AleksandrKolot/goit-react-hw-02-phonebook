@@ -1,0 +1,14 @@
+.table {
+  margin: 15px;
+  width: 450px;
+  border-collapse: collapse;
+}
+.table td {
+  padding: 5px;
+}
+.table tr:not(:last-child) {
+  margin-bottom: 10px;
+}
+.table tr:hover {
+  background-color: aquamarine;
+}

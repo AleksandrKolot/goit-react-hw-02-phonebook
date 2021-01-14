@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.App-find {
+  margin: 0;
+}
 
 .App-logo {
   height: 40vmin;
